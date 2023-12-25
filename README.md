@@ -1,2 +1,2 @@
-# black-friday-sales_streamlit-app
-Black Friday Sales Prediction &amp; Thanksgiving App
+# sales_streamlit-app
+Sales Prediction &amp; Thanksgiving App
